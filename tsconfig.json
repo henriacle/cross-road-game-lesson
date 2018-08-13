@@ -1,0 +1,14 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "module": "none",
+        "target": "es5",
+        "sourceMap": false,
+        "outFile": "js/game.js"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
